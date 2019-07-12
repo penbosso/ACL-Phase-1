@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         //Custom font
         Calligrapher calligrapher = new Calligrapher(this);
-        calligrapher.setFont(this,"newfont.ttf",true);
+        calligrapher.setFont(this,"newfont.otf",true);
 
         Log.d(TAG, "onCreate : started");
         mAbout = findViewById(R.id.aboutButton);

@@ -18,7 +18,7 @@
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/prof1"
+        app:srcCompat="@drawable/prof"
         tools:srcCompat="@drawable/prof1" />
 
     <View

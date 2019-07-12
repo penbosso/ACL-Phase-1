@@ -14,6 +14,6 @@ public class Profile extends AppCompatActivity {
 
         //Custom font
         Calligrapher calligrapher = new Calligrapher(this);
-        calligrapher.setFont(this,"newfont.ttf",true);
+        calligrapher.setFont(this,"newfont.otf",true);
     }
 }
