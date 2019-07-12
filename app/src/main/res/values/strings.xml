@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="profileImage">Profile Imaage</string>
+
+    <string name="name">Christian</string>
+    <string name="profileText">
+        Track: \tAndroid
+        \nCountry: \tGhana
+        \nEmail: \tbchristiankelein@gmail.com
+        \nPhone Number: \t+233502208302
+        \nSlack Username: \t@Christian
+
+    </string>
+    <string name="profile_text">Profile Text</string>
+    <string name="my_profile">My Profile</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+</resources>
